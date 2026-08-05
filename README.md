@@ -42,8 +42,8 @@
       <h3>Top Projects & Goals</h3>
       <br/>
       <p>
-        <a href="https://github.com/arazomarofh"><img src="https://img.shields.io/badge/CUSTOM_OS_PROJECT-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
-        &nbsp; Researching and learning C/C++ to build a custom Operating System.
+        <a href="https://github.com/arazomarofh/Calculator"><img src="https://img.shields.io/badge/CALCULATOR-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+        &nbsp; Calculator written with Python's Tkinter library.
       </p>
       <p>
         <a href="https://github.com/arazomarofh"><img src="https://img.shields.io/badge/PYTHON_BACKEND-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
