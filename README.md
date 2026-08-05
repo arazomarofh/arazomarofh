@@ -46,8 +46,8 @@
         &nbsp; Calculator written with Python's Tkinter library.
       </p>
       <p>
-        <a href="https://github.com/arazomarofh"><img src="https://img.shields.io/badge/PYTHON_BACKEND-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
-        &nbsp; Developing backend applications and expanding my Python skills.
+        <a href="https://github.com/arazomarofh/arazomarofh-site"><img src="https://img.shields.io/badge/PORTFOLIO_SITE-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+        &nbsp; My Portfolio Web Site.
       </p>
       <p>
         <a href="https://github.com/arazomarofh"><img src="https://img.shields.io/badge/FRONTEND_APPS-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
