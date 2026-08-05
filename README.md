@@ -2,10 +2,6 @@
   <img src="./assest/banner.jpg" alt="Araz Omarov" width="100%" height="250px"/>
 </p>
 
-<p align="center">
-  <a href="https://github.com/arazomarofh" style="text-decoration: none;"><img src="https://img.shields.io/github/stars/arazomarofh?style=for-the-badge&logo=github&logoColor=white&label=STARS&color=000000" alt="Stars" /></a>&nbsp;<a href="https://github.com/arazomarofh" style="text-decoration: none;"><img src="https://img.shields.io/badge/FORKS-0-000000?style=for-the-badge&logo=github&logoColor=white" alt="Forks" /></a>&nbsp;<a href="https://github.com/arazomarofh?tab=followers" style="text-decoration: none;"><img src="https://img.shields.io/github/followers/arazomarofh?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&color=000000" alt="Followers" /></a>
-</p>
-
 <br/>
 
 <h2 align="center">Know About Me</h2>
