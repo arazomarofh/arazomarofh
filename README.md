@@ -1,3 +1,3 @@
 <div align="center">
-  <img src="https://pin.it/7ztYxAlG7"></img>
+    <img src="https://pin.it/6GGmb39CG" width="65"/>
 </div>
