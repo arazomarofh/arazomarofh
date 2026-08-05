@@ -69,11 +69,9 @@
 <p align="center">
   <a href="https://github.com/arazomarofh"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
   &nbsp;
-  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/arazomarofh/"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   &nbsp;
-  <a href="mailto:example@gmail.com"><img src="https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  &nbsp;
-  <a href="#"><img src="https://img.shields.io/badge/RESUME-000000?style=for-the-badge&logo=read-the-docs&logoColor=white" /></a>
+  <a href="mailto:arazomarofh@gmail.com"><img src="https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <br/>
