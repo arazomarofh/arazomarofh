@@ -38,24 +38,29 @@
 
 <table>
   <tr>
-    <td width="70%" valign="middle">
-      <h3>Top Projects & Goals</h3>
+    <td width="70%" valign="middle" style="padding: 15px;">
+      <h3>Top Projects & Goals 🚀</h3>
       <br/>
       <p>
         <a href="https://github.com/arazomarofh/Calculator"><img src="https://img.shields.io/badge/CALCULATOR-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
-        &nbsp; Calculator written with Python's Tkinter library.
+        <br/>
+        &nbsp; Desktop GUI calculator application written with Python's Tkinter library.
       </p>
+      <br/>
       <p>
         <a href="https://github.com/arazomarofh/arazomarofh-site"><img src="https://img.shields.io/badge/PORTFOLIO_SITE-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
-        &nbsp; My Portfolio Web Site.
+        <br/>
+        &nbsp; My personal portfolio website showcasing my journey, skills, and projects.
       </p>
+      <br/>
       <p>
         <a href="https://github.com/arazomarofh"><img src="https://img.shields.io/badge/FRONTEND_APPS-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
-        &nbsp; Web interfaces and frontend projects.
+        <br/>
+        &nbsp; Responsive web interfaces, landing pages, and ongoing frontend projects.
       </p>
     </td>
     <td width="30%" align="center" valign="middle">
-      <img src="./assest/flame.png" width="130px" alt="Flame"/>
+      <img src="./assest/flame.png" width="140px" alt="Flame"/>
     </td>
   </tr>
 </table>
