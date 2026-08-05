@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="/assets/banner.jpg" alt="Araz Omarov" width="100%" />
+  <img src="./assest/banner.jpg" alt="Araz Omarov" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://github.com"><img src="https://img.shields.io/badge/STARS-11-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://github.com"><img src="https://img.shields.io/badge/FORKS-0-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://github.com"><img src="https://img.shields.io/badge/FOLLOWERS-3-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/arazomarofh"><img src="https://img.shields.io/badge/STARS-11-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/arazomarofh"><img src="https://img.shields.io/badge/FORKS-0-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/arazomarofh"><img src="https://img.shields.io/badge/FOLLOWERS-3-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 <br/>
@@ -17,7 +17,7 @@
 <table>
   <tr>
     <td width="30%" align="center" valign="middle">
-      <img src="/assets/brain.png" width="160px" alt="Brain"/>
+      <img src="./assest/brain.png" width="160px" alt="Brain"/>
     </td>
     <td width="70%" valign="middle">
       <h3>Hey there! I'm Araz Omarov 👋</h3>
@@ -44,20 +44,20 @@
       <h3>Top Projects & Goals</h3>
       <br/>
       <p>
-        <a href="https://github.com"><img src="https://img.shields.io/badge/CUSTOM_OS_PROJECT-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+        <a href="https://github.com/arazomarofh"><img src="https://img.shields.io/badge/CUSTOM_OS_PROJECT-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
         &nbsp; Researching and learning C/C++ to build a custom Operating System.
       </p>
       <p>
-        <a href="https://github.com"><img src="https://img.shields.io/badge/PYTHON_BACKEND-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+        <a href="https://github.com/arazomarofh"><img src="https://img.shields.io/badge/PYTHON_BACKEND-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
         &nbsp; Developing backend applications and expanding my Python skills.
       </p>
       <p>
-        <a href="https://github.com"><img src="https://img.shields.io/badge/FRONTEND_APPS-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+        <a href="https://github.com/arazomarofh"><img src="https://img.shields.io/badge/FRONTEND_APPS-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
         &nbsp; Web interfaces and frontend projects.
       </p>
     </td>
     <td width="30%" align="center" valign="middle">
-      <img src="/assets/flame.png" width="130px" alt="Flame"/>
+      <img src="./assest/flame.png" width="130px" alt="Flame"/>
     </td>
   </tr>
 </table>
@@ -69,7 +69,7 @@
 <br/>
 
 <p align="center">
-  <a href="https://github.com"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/arazomarofh"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
   &nbsp;
   <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   &nbsp;
@@ -92,5 +92,5 @@
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevolutionAZ&theme=react-dark&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arazomarofh&theme=react-dark&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
 </p>
