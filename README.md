@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.jpg" alt="Araz Omarov" width="100%" />
+  <img src="/assets/banner.jpg" alt="Araz Omarov" width="100%" />
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 <table>
   <tr>
     <td width="30%" align="center" valign="middle">
-      <img src="./assets/brain.jpg" width="160px" alt="Brain"/>
+      <img src="/assets/brain.png" width="160px" alt="Brain"/>
     </td>
     <td width="70%" valign="middle">
       <h3>Hey there! I'm Araz Omarov 👋</h3>
@@ -57,7 +57,7 @@
       </p>
     </td>
     <td width="30%" align="center" valign="middle">
-      <img src="./assets/flame.jpg" width="130px" alt="Flame"/>
+      <img src="/assets/flame.png" width="130px" alt="Flame"/>
     </td>
   </tr>
 </table>
