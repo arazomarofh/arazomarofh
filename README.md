@@ -12,7 +12,7 @@
 
 <br/>
 
-<table>
+<table width="100%">
   <tr>
     <td width="30%" align="center" valign="middle">
       <img src="./assest/brain.png" width="160px" alt="Brain"/>
@@ -36,27 +36,27 @@
 
 <br/>
 
-<table>
+<table width="100%">
   <tr>
-    <td width="70%" valign="middle" style="padding: 15px;">
+    <td width="70%" valign="middle">
       <h3>Top Projects & Goals 🚀</h3>
       <br/>
       <p>
         <a href="https://github.com/arazomarofh/Calculator"><img src="https://img.shields.io/badge/CALCULATOR-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
         <br/>
-        &nbsp; Desktop GUI calculator application written with Python's Tkinter library.
+        Desktop GUI calculator application written with Python's Tkinter library.
       </p>
       <br/>
       <p>
         <a href="https://github.com/arazomarofh/arazomarofh-site"><img src="https://img.shields.io/badge/PORTFOLIO_SITE-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
         <br/>
-        &nbsp; My personal portfolio website showcasing my journey, skills, and projects.
+        My personal portfolio website showcasing my journey, skills, and projects.
       </p>
       <br/>
       <p>
         <a href="https://github.com/arazomarofh"><img src="https://img.shields.io/badge/FRONTEND_APPS-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
         <br/>
-        &nbsp; Responsive web interfaces, landing pages, and ongoing frontend projects.
+        Responsive web interfaces, landing pages, and ongoing frontend projects.
       </p>
     </td>
     <td width="30%" align="center" valign="middle">
