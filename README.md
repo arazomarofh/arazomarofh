@@ -24,6 +24,8 @@
       </p>
       <p>
         <b>What I do & know:</b> I have knowledge in Frontend development and Python, and I am currently navigating my journey in IT.<br/>
+      </p>
+      <p>
         <b>My main goal:</b> I'm actively learning Backend development along with C/C++ with the ultimate goal of building my own Operating System (OS).
       </p>
     </td>
@@ -85,13 +87,3 @@
   <p>Code is never finished. It only becomes slightly less terrible over time.</p>
   <p>Every commit I make is essentially just a small, desperate apology to my future self. Someday I will return to this codebase, look at the spaghetti I've written, and wonder who let me anywhere near a keyboard.</p>
 </blockquote>
-
-<br/>
-
-<h2 align="center">Contribution</h2>
-
-<br/>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arazomarofh&theme=dark&hide_border=true" width="100%" alt="Contribution Graph" />
-</p>
