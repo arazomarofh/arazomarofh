@@ -2,8 +2,6 @@
   <img src="./assest/banner.jpg" alt="Araz Omarov" width="100%" height="250px"/>
 </p>
 
-<br/>
-
 <h2 align="center">Know About Me</h2>
 
 <br/>
