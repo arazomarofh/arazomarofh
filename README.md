@@ -12,12 +12,12 @@
 
 <br/>
 
-<table width="100%">
+<table>
   <tr>
-    <td width="30%" align="center" valign="middle">
+    <td width="300" align="center" valign="middle">
       <img src="./assest/brain.png" width="160px" alt="Brain"/>
     </td>
-    <td width="70%" valign="middle">
+    <td width="700" valign="middle">
       <h3>Hey there! I'm Araz Omarov 👋</h3>
       <p>
         I'm a 15-year-old developer and Linux user who is passionate about technology, systems, and software engineering.
@@ -36,9 +36,9 @@
 
 <br/>
 
-<table width="100%">
+<table>
   <tr>
-    <td width="70%" valign="middle">
+    <td width="700" valign="middle">
       <h3>Top Projects & Goals 🚀</h3>
       <br/>
       <p>
@@ -59,7 +59,7 @@
         Responsive web interfaces, landing pages, and ongoing frontend projects.
       </p>
     </td>
-    <td width="30%" align="center" valign="middle">
+    <td width="300" align="center" valign="middle">
       <img src="./assest/flame.png" width="140px" alt="Flame"/>
     </td>
   </tr>
