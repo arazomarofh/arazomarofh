@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assest/banner.jpg" alt="Araz Omarov" width="100%" />
+  <img src="./assest/banner.jpg" alt="Araz Omarov" width="100%" height="250px"/>
 </p>
 
 <p align="center">
