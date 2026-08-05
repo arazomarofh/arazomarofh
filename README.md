@@ -3,9 +3,15 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/arazomarofh"><img src="https://img.shields.io/badge/STARS-11-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://github.com/arazomarofh"><img src="https://img.shields.io/badge/FORKS-0-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://github.com/arazomarofh"><img src="https://img.shields.io/badge/FOLLOWERS-3-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/arazomarofh">
+    <img src="https://img.shields.io/github/followers/arazomarofh?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&color=000000" alt="Followers" />
+  </a>
+  <a href="https://github.com/arazomarofh">
+    <img src="https://img.shields.io/badge/STARS-11-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/arazomarofh">
+    <img src="https://img.shields.io/badge/FORKS-0-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 <br/>
