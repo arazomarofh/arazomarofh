@@ -12,12 +12,14 @@
       <img src="./assest/brain.png" width="160px" alt="Brain"/>
     </td>
     <td width="700" valign="middle">
-      <h3>Hey there! I'm Araz Omarov 👋</h3>
+      <h3>I'm Araz Omarov</h3>
       <p>
         I'm a 15-year-old developer and Linux user who is passionate about technology, systems, and software engineering.
       </p>
       <p>
         <b>What I do & know:</b> I have knowledge in Frontend development and Python, and I am currently navigating my journey in IT.<br/>
+      </p>
+      <p>
         <b>My main goal:</b> I'm actively learning Backend development along with C/C++ with the ultimate goal of building my own Operating System (OS).
       </p>
     </td>
